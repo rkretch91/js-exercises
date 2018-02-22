@@ -21,7 +21,7 @@ Your result could look like in the following demo video, that shows all needed p
 
 Click the thumbnail to see the video.  
 
-![Click the thumbnail to play the video!](./ip-geolocation-map-demo-thumbnail.jpg)
+[![Click the thumbnail to play the video!](./ip-geolocation-map-demo-thumbnail.jpg)](https://youtu.be/qspF81xBVDU)
 
 ## Template
 
