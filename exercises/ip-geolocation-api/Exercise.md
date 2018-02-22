@@ -15,6 +15,10 @@ __You have to create:__
     - centers the map to the IP location
     - zooms into the center of the map
 
+ __Important:__
+
+ You need to get your own Google Maps API key, from the [Google Developer Console](https://console.developers.google.com).
+
 ## Mockup
 
 Your result could look like in the following demo video, that shows all needed parts of the application. Feel free to add some more creative styling, but please get it working first.
