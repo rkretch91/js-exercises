@@ -1,6 +1,6 @@
 # JavaScript Exercises
 
-This page includes a lot of exercises that have been created at the [Digital Career Institute](https://digitalcareerinstitute.org/) and might help you to practice as a student or as a teacher to challenge / test your students.
+This page includes a exercises that have been created at the [Digital Career Institute](https://digitalcareerinstitute.org/) and might help you to practice as a student or as a teacher to challenge / test your students.
 
 __Exercises:__
 

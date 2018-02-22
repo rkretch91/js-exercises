@@ -36,4 +36,4 @@ https://codepen.io/noreading/pen/paKYqq
 
 ## Solution
 
-https://codepen.io/noreading/pen/bYzYBN/
+https://codepen.io/noreading/full/bYzYBN/

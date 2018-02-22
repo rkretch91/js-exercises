@@ -18,4 +18,4 @@ https://codepen.io/noreading/pen/JpZxQz/
 
 ## Solution
 
-https://codepen.io/noreading/pen/OOBdNY/
+https://codepen.io/noreading/full/OOBdNY/
