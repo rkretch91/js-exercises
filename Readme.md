@@ -10,3 +10,4 @@ __Exercises:__
 1. [XKCD Comic API](./exercises/xkcd-comic-api/Exercise.md)
 1. [Dad Jokes API](./exercises/dad-jokes-api/Exercise.md)
 1. [Youtube Video API](./exercises/youtube-video-api/Exercise.md)
+1. [IP Location + Google Maps API](./exercises/ip-geolocation-api/Exercise.md)
