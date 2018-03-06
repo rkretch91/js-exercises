@@ -2,9 +2,14 @@
 
 ## Exercise
 
-Create a class that sends a request to the [Star Wars API](https://swapi.co/), to search for people with a matching name.   Use the "people" endpoint of the API.
+Create a class that sends a request to the [Star Wars API](https://swapi.co/), to search for people with a matching name. Use the "people" endpoint of the API.
 
-The search results should be written to the table and don't forget to remove the results of your last search, before adding new rows.
+The search results should be written to the table and don't forget to remove the results of your last search, before adding new rows. An extra feature could be to disable the button on click until the data is loaded.
+
+__You have to create:__
+
+- A class that sends the API request and uses callbacks
+- A class that does all the form handling and generate the table rows.
 
 ## Mockup
 
