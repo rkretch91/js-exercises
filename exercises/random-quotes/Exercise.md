@@ -2,7 +2,7 @@
 
 ## Exercise
 
-You will create a random quote generator, that uses quotes that are stored in an array.  
+Create a random quote generator, that uses quotes that are stored in an array.  
 There's a default array in the template, to help if you don't know good quotes.
 
 __You have to create:__
@@ -12,6 +12,12 @@ __You have to create:__
     - gets a random number that's not higher than the amount of quotes
     - gets the quote with that number
     - updates the displayed blockquote
+
+## Mockup
+
+Your result could look like the following demo, that shows all needed parts of the application. Feel free to add some more creative styling, but please get it working first.  
+
+![Demo Result](./random-quotes-demo.jpg)
 
 ## Template
 
