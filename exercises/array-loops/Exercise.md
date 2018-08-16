@@ -21,6 +21,3 @@ Your result could look like the following demo, that shows all needed parts of t
 
 https://codepen.io/noreading/pen/xYvROL
 
-## Solution
-
-https://codepen.io/noreading/pen/BYXQBv/
